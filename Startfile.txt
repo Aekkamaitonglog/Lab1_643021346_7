@@ -2,3 +2,4 @@
 "Author : Aekkapan Somnoi"
 "Create Startfile.txt with author’s name."
 "My personal quote: we will"
+“Add personal quote to Startfile.txt”
